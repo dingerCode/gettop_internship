@@ -1,0 +1,152 @@
+2021-08-12 01:22:40,171 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product category page -- @1.1 
+2021-08-12 01:22:43,229 - support.logger - INFO - 
+Started step: <given "Open GetTop macbook product page">
+2021-08-12 01:22:46,918 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:22:47,923 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
+2021-08-12 01:22:47,999 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product category page -- @1.2 
+2021-08-12 01:22:50,945 - support.logger - INFO - 
+Started step: <given "Open GetTop iphone product page">
+2021-08-12 01:22:54,522 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:22:55,754 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
+2021-08-12 01:22:55,828 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product category page -- @1.3 
+2021-08-12 01:22:58,761 - support.logger - INFO - 
+Started step: <given "Open GetTop ipad product page">
+2021-08-12 01:23:02,423 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:23:03,723 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
+2021-08-12 01:23:03,792 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product category page -- @1.4 
+2021-08-12 01:23:06,778 - support.logger - INFO - 
+Started step: <given "Open GetTop accessories/watch product page">
+2021-08-12 01:23:10,170 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:23:11,567 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
+2021-08-12 01:23:11,639 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product category page -- @1.5 
+2021-08-12 01:23:14,679 - support.logger - INFO - 
+Started step: <given "Open GetTop accessories/airpods product page">
+2021-08-12 01:23:18,141 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:23:19,605 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
+2021-08-12 01:23:28,895 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product page -- @1.1 
+2021-08-12 01:23:31,944 - support.logger - INFO - 
+Started step: <given "Open GetTop product macbook-pro-13 page">
+2021-08-12 01:23:37,512 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:23:38,434 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
+2021-08-12 01:23:38,508 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product page -- @1.2 
+2021-08-12 01:23:41,476 - support.logger - INFO - 
+Started step: <given "Open GetTop product macbook-pro-16 page">
+2021-08-12 01:23:45,746 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:23:47,141 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
+2021-08-12 01:23:47,232 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product page -- @1.3 
+2021-08-12 01:23:50,177 - support.logger - INFO - 
+Started step: <given "Open GetTop product macbook-air page">
+2021-08-12 01:23:54,730 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:23:56,099 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
+2021-08-12 01:23:56,175 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product page -- @1.4 
+2021-08-12 01:23:59,160 - support.logger - INFO - 
+Started step: <given "Open GetTop product iphone-11 page">
+2021-08-12 01:24:02,970 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:24:04,149 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
+2021-08-12 01:24:04,219 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product page -- @1.5 
+2021-08-12 01:24:07,243 - support.logger - INFO - 
+Started step: <given "Open GetTop product iphone-11pro page">
+2021-08-12 01:24:11,157 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:24:12,398 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
+2021-08-12 01:24:12,470 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product page -- @1.6 
+2021-08-12 01:24:15,410 - support.logger - INFO - 
+Started step: <given "Open GetTop product iphone-se page">
+2021-08-12 01:24:18,987 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:24:20,313 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
+2021-08-12 01:24:20,450 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product page -- @1.7 
+2021-08-12 01:24:23,360 - support.logger - INFO - 
+Started step: <given "Open GetTop product ipad page">
+2021-08-12 01:24:27,114 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:24:28,424 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
+2021-08-12 01:24:28,496 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product page -- @1.8 
+2021-08-12 01:24:31,461 - support.logger - INFO - 
+Started step: <given "Open GetTop product ipad-pro page">
+2021-08-12 01:24:35,355 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:24:36,559 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
+2021-08-12 01:24:36,630 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product page -- @1.9 
+2021-08-12 01:24:39,608 - support.logger - INFO - 
+Started step: <given "Open GetTop product ipad-mini page">
+2021-08-12 01:24:43,342 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:24:44,885 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
+2021-08-12 01:24:44,957 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product page -- @1.10 
+2021-08-12 01:24:47,959 - support.logger - INFO - 
+Started step: <given "Open GetTop product ipad-air page">
+2021-08-12 01:24:51,893 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:24:53,466 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
+2021-08-12 01:24:53,542 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product page -- @1.11 
+2021-08-12 01:24:56,561 - support.logger - INFO - 
+Started step: <given "Open GetTop product ss-crew-california-sub-river-island page">
+2021-08-12 01:25:00,585 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:25:01,675 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
+2021-08-12 01:25:01,751 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product page -- @1.12 
+2021-08-12 01:25:04,759 - support.logger - INFO - 
+Started step: <given "Open GetTop product land-tee-jack-jones page">
+2021-08-12 01:25:11,223 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:25:12,398 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
+2021-08-12 01:25:12,468 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product page -- @1.13 
+2021-08-12 01:25:15,476 - support.logger - INFO - 
+Started step: <given "Open GetTop product airpods page">
+2021-08-12 01:25:19,182 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:25:20,554 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
+2021-08-12 01:25:20,626 - support.logger - INFO - 
+Started scenario: Home Link takes user to Home Page from product page -- @1.14 
+2021-08-12 01:25:23,641 - support.logger - INFO - 
+Started step: <given "Open GetTop product airpods-pro page">
+2021-08-12 01:25:27,799 - support.logger - INFO - 
+Started step: <given "Click on Home link">
+2021-08-12 01:25:29,298 - support.logger - INFO - 
+Started step: <then "Verify user is redirected to GetTop home page">
